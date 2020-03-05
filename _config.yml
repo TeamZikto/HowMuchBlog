@@ -108,17 +108,18 @@ analytics:
 # Site Author
 author:
   name             : "얼마야"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/sidebar/logo.png"
   bio              : ""
   location         : "서울시 강남구 역삼동"
   email            : "contact@zikto.com"
+  uri              : "https://ulmaya.zikto.com/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://your-web나site.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

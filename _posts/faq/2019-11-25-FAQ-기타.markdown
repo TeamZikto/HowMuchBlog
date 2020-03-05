@@ -4,6 +4,9 @@ title: "FAQ - 기타"
 date: 2019-12-16 13:34:53 +0900
 categories: faq
 ---
+
+![FAQ]({{site.baseurl}}/assets/img/faq/faq_1.png)​
+
 ### Q: 얼마야의 감정평가 기준을 알려주세요
 
 ​얼마야에서 물품(동산)에 대한 감정평가는 2단계로 이루어 집니다

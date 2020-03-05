@@ -5,6 +5,8 @@ date: 2019-12-16 13:34:53 +0900
 categories: faq
 ---
 
+![FAQ]({{site.baseurl}}/assets/img/faq/faq_3.png)​
+
 안녕하세요
 '얼마야' 팀 입니다.
 

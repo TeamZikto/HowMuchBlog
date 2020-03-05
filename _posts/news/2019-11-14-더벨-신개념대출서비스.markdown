@@ -23,6 +23,6 @@ categories: news
 
 직토는 이번 디지털 전당포 사업을 J커브 성장 기회로 보고 있다. 김 대표는 "이번 사업은 6년차 스타트업으로서 매출 등 실질적인 성과를 입증해내야 할 타이밍에 고심 끝 선보인 첫 B2C 서비스로 의미가 남다르다"며 "AI와 블록체인 기술 적용을 최대화해 자동화를 많이 일군 만큼 명확한 리스크 관리를 거쳐 내년 초 P2P 투자 서비스로 선보일 계획"이라고 강조했다.
 
-http://www.thebell.co.kr/free/content/ArticleView.asp?key=201911130100024420001527&svccode=00&page=1&sort=thebell_check_time
+["전당포에 핀테크 접목, 음지서 양지로"](http://www.thebell.co.kr/free/content/ArticleView.asp?key=201911130100024420001527&svccode=00&page=1&sort=thebell_check_time)
 
 {{post.excerpt}}
