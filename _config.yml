@@ -16,13 +16,13 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "얼마야 - 온라인 전당포"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+subtitle                 : "내 물건의 가치" # site tagline that appears below site title in masthead
+name                     : "얼마야"
+description              : "얼마야는 내 물건(시계, 스니커즈, 스마트폰, 노트북 등)의 가치를 실시간으로 분석하여 간편 대출을 진행하는 서비스 입니다."
+url                      : "https://ulmaya.zikto.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/page" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "얼마야"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : ""
+  location         : "서울시 강남구 역삼동"
+  email            : "contact@zikto.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
