@@ -5,7 +5,7 @@ date: 2019-11-20 13:34:53 +0900
 categories: notice
 ---
 
-![메인이미지]({{site.baseurl}}/assets/img/20191120_1.png)
+![메인이미지]({{site.baseurl}}/assets/img/notice/openBeta.png)
 
 얼마야는 소액담보대출
 ㈜직토의 자회사 핀테크 스타트업으로,

@@ -13,11 +13,18 @@ categories: tips
 부동산 펀드와 리츠펀드의 차이점 아시나요? 
 두가지 다 부동산 관련 펀드라 이 둘의 정확한 차이점이 무엇인지 궁금한 분들이 있을 것 같아 정리해보았습니다. 
 
+![메인이미지]({{site.baseurl}}/assets/img/financial/tips_1.png){: width="100%" height="100%"}
+
 ### 부동산 펀드란? 
+
+![메인이미지]({{site.baseurl}}/assets/img/financial/tips_2.png){: width="100%" height="100%"}
 
 펀드 재산이 50%를 초과해 부동산 및 관련 자산에 투자하는 펀드 종류는 공개적으로 시장이 상장시키는 공모 펀드와 투자자를 한정적으로 모으는 사모 펀드 두가지로 나뉘게 됩니다. 
 
 ### 리츠(REITs)펀드란? 
+
+![메인이미지]({{site.baseurl}}/assets/img/financial/tips_3.png){: width="100%" height="100%"}
+
 리츠는 Real Estate Investment Trusts 의 약자로 부동산 투자 신탁을 의미합니다. 
 
 자금을 투자자에게 모아서 부동산에 투자해 그 곳에서 발생하는
@@ -27,6 +34,8 @@ categories: tips
 투자자들에 배당하는 방식으로 운영됩니다. 
 
 ### 부동산 펀드 및 리츠의 차이점은? 
+
+![메인이미지]({{site.baseurl}}/assets/img/financial/tips_4.png){: width="100%" height="100%"}
 
 부동산 펀드와 리츠의 차이점으로는 근거 법령, 설립 자금차입, 개발산업 등이 모두 다릅니다.  
 부동산 펀드의 경우 자본 시장법에 의해 설립되지만 리츠의 경우 부동산투자회사법에 의해 설립됩니다.
